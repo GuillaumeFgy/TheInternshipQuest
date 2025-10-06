@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d676c7d61390bc947adbb64da4552ff8
+timeCreated: 1502897602
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Materials/Overlay.mat
+  uploadId: 328003

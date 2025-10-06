@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b7d5ce9aaf7938148ac46428d169acb8
+timeCreated: 1502897863
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Shaders/UIOverlay.shader
+  uploadId: 328003

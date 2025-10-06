@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 723108da12e0b99439e1e0d5a043fbc2
+timeCreated: 1504061506
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Icon Slots/Equip Slot.prefab
+  uploadId: 328003

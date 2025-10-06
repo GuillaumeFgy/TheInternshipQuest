@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6123887ded118c54c8f57c16b8c779fe
+timeCreated: 1502986530
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Lobby/Message Box.prefab
+  uploadId: 328003

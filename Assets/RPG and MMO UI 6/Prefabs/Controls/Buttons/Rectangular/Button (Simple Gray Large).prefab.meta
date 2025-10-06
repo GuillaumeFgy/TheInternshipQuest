@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9b2e79df0bd3aea41bed1326ea8c8e6a
+timeCreated: 1504344784
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Controls/Buttons/Rectangular/Button
+    (Simple Gray Large).prefab
+  uploadId: 328003

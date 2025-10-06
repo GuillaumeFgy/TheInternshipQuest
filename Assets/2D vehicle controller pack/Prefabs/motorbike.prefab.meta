@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94bd56bbc62dabd458fad624ba2f682c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128211
+  packageName: 2D vehicle controller pack
+  packageVersion: 1.0
+  assetPath: Assets/2D vehicle controller pack/Prefabs/motorbike.prefab
+  uploadId: 266185

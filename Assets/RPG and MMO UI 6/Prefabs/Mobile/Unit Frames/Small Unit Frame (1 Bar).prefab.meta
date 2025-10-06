@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9fc3edd7c4278b4794edde2f9eb9e1e
+timeCreated: 1522608761
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Mobile/Unit Frames/Small Unit Frame
+    (1 Bar).prefab
+  uploadId: 328003

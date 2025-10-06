@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 67704c64df1453a45a7c16fd7bf7f415
+timeCreated: 1510408378
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Quest Tracker.prefab
+  uploadId: 328003

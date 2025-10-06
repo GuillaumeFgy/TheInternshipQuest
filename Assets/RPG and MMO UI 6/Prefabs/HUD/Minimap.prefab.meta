@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1cf6e3bb56da53b478b6dc908e227943
+timeCreated: 1503966639
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Minimap.prefab
+  uploadId: 328003

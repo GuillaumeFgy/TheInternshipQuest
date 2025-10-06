@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b6eab1fe41fa7c42862ff051a9a1c5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Scripts/UI/Miscellaneous/UITooltipFlipTransform.cs
+  uploadId: 328003

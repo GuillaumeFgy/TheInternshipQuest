@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea2f5c7b7eaecdf40be10a96cadd939e
+timeCreated: 1504165851
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Icon Slots/Spell Slot (Spellbook).prefab
+  uploadId: 328003

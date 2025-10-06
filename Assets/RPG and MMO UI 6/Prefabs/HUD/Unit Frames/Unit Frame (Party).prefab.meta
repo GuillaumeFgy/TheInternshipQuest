@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 31c1b08c4f029e7479562807fb7061a8
+timeCreated: 1511431169
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Unit Frames/Unit Frame (Party).prefab
+  uploadId: 328003

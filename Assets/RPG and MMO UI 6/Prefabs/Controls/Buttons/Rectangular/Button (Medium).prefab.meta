@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f9fa21dca98874c4196e015010414446
+timeCreated: 1503967074
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Controls/Buttons/Rectangular/Button
+    (Medium).prefab
+  uploadId: 328003

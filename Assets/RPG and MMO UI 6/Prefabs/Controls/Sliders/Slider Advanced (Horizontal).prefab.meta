@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3fa4be9faf22e794c8bdc3ff1a45d02e
+timeCreated: 1503717729
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Controls/Sliders/Slider Advanced (Horizontal).prefab
+  uploadId: 328003

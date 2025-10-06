@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 35347e92d010f854bb30c54a8afaab33
+timeCreated: 1503717723
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Controls/Sliders/Slider Advanced (Horizontal
+    Labaled).prefab
+  uploadId: 328003

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ccfb833f89fa05641a8c435f47ea708f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Scripts/UI/Tooltips/Editor/UITooltipLineStyleDrawer.cs
+  uploadId: 328003

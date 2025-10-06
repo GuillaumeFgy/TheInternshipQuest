@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 16404d5c297ae754aac0ce8086794703
+timeCreated: 1487573889
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Scripts/UI/Miscellaneous/UICanvasAnchorToCamera.cs
+  uploadId: 328003

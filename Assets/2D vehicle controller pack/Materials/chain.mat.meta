@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52a4e9da85fb6e74fbced7eb4f91c4a3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128211
+  packageName: 2D vehicle controller pack
+  packageVersion: 1.0
+  assetPath: Assets/2D vehicle controller pack/Materials/chain.mat
+  uploadId: 266185

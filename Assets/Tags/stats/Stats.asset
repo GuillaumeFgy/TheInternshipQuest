@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2860639939b847542b08581955df7d02, type: 3}
+  m_Name: Stats
+  m_EditorClassIdentifier: 
+  parentTag: {fileID: 0}
+  lines:
+  - "You\u2019re trying to min-max me, aren\u2019t you?"
+  - "Stop poking my stats, I\u2019m sensitive."
+  - "You\u2019re basically trying to edit my CV right now."
+  - Why are you even clicking this?
+  - "Achievement unlocked: \u2018Won\u2019t Take No for an Answer.\u2019"
+  - "At this point, you\u2019re just bullying the arrows."
+  - "Trust me, I tested these numbers. They\u2019re balanced."
+  - "Trust me, I tested these numbers. They\u2019re balanced."
+  - Your click was legendary.
+  - Stop! Every click adds one more line of spaghetti code.
+  - Every click makes the code cry a little bit more.
+  - "You could be saving the world, but nooo\u2026 it\u2019s button-clicking time."
+  - Are we bonding right now? Feels like we are.
+  - "You\u2019re surprisingly dedicated. I respect that."
+  - "You know, this button doesn\u2019t get many visitors. Thanks for stopping by."
+  - "You\u2019re really making this button feel important."
+  - "This button isn\u2019t special, but your click sure was."
+  - Every click is like a little high-five. Nice.
+  - "Oh wow, I wasn\u2019t ready for another click so soon!"
+  - You have excellent taste in pointless buttons.
+  - In the end, the only real stat that matters is that I made this for you.
+  tagName: Stats

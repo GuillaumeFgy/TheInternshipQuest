@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ef36c91306020649b111224eee98da5
+timeCreated: 1504009521
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Tooltip.prefab
+  uploadId: 328003

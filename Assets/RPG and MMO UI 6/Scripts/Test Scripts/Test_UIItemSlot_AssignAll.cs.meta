@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9c5e7687234560a44b43f820fbaa2b34
+timeCreated: 1504368482
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Scripts/Test Scripts/Test_UIItemSlot_AssignAll.cs
+  uploadId: 328003

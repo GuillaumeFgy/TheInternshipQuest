@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 161869283928a9043b30a678e672f6b8
+timeCreated: 1503801029
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Lobby/Notifications/Notification (Warning).prefab
+  uploadId: 328003

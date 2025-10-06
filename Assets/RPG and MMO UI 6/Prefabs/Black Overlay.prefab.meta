@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41809c4c0127d0f41be73bfc3ddf449d
+timeCreated: 1503608082
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Black Overlay.prefab
+  uploadId: 328003

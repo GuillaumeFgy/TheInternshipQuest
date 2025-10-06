@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2860639939b847542b08581955df7d02, type: 3}
+  m_Name: Classes
+  m_EditorClassIdentifier: 
+  parentTag: {fileID: 0}
+  lines:
+  - "Nice try, but we\u2019re still going druid."
+  - You can click all you want.
+  - "That\u2019s adorable. But, no."
+  - "I see you\u2019re determined. Unfortunately, so am I."
+  - Not gonna happen, sorry.
+  - Oh wow, another click. Groundbreaking.
+  - This button is basically decorative.
+  - "At this point, you\u2019re just testing my patience."
+  - "The definition of insanity is\u2026 well, this."
+  - Still no. Thanks for asking, though
+  - You think I coded other classes?
+  - "Look, I\u2019m the dev. I make the rules. And the rule is: druid."
+  - The button sighs, but says nothing.
+  - "This isn\u2019t character creation. It\u2019s character revelation."
+  - "Pro tip: the button doesn\u2019t actually do anything."
+  - Still trying? I respect the grind.
+  - "Okay fine, you unlocked\u2026 disappointment."
+  - "You\u2019ve clicked enough to summon\u2026 nothing."
+  - "I\u2019m starting to think you don\u2019t trust me."
+  - "Consistency is key, even if it\u2019s clicking this."
+  - "You\u2019ve got good form\u2014clean, decisive clicking."
+  - "The button nods approvingly. You\u2019re doing great!"
+  - "Some say you\u2019re wasting time. I say you\u2019re making memories."
+  - "You\u2019re the hero this button didn\u2019t know it needed."
+  - "You keep this up and we\u2019ll have to name the button."
+  - That one felt extra clicky. Nice touch.
+  - "It\u2019s official: you\u2019re this button\u2019s favorite human."
+  - Alright, this button is officially tired.
+  tagName: Classes

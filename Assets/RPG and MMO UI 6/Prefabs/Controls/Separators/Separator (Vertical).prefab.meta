@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 39bbfec4a93819e4b9b7c2bc31969eb9
+timeCreated: 1504059473
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Controls/Separators/Separator (Vertical).prefab
+  uploadId: 328003

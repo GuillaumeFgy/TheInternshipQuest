@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07c08e64135e87b43ab2de115bf78399
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128211
+  packageName: 2D vehicle controller pack
+  packageVersion: 1.0
+  assetPath: Assets/2D vehicle controller pack/Materials/bike_frontWheel.mat
+  uploadId: 266185

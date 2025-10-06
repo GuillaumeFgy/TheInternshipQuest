@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5774527b1110e443a4e483377a3cdeb
+timeCreated: 1498987905
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Shaders/UIMaskedBlur.shader
+  uploadId: 328003

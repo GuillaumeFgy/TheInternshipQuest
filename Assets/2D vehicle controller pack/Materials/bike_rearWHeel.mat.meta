@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78bff4626d0a6004e8ca1fae7f428951
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128211
+  packageName: 2D vehicle controller pack
+  packageVersion: 1.0
+  assetPath: Assets/2D vehicle controller pack/Materials/bike_rearWHeel.mat
+  uploadId: 266185

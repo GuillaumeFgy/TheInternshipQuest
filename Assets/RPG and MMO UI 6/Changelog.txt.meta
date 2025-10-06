@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb27936abca499846b967847f2712744
+timeCreated: 1498790477
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Changelog.txt
+  uploadId: 328003

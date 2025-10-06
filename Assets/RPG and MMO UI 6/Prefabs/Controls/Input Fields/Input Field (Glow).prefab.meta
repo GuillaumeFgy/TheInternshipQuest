@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd5acf859c0a5c143964dd12de0a6035
+timeCreated: 1503429923
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Controls/Input Fields/Input Field (Glow).prefab
+  uploadId: 328003

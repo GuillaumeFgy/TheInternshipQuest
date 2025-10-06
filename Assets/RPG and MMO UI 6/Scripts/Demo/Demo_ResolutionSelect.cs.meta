@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5de47f56bf4fecf45944611d575e6243
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Scripts/Demo/Demo_ResolutionSelect.cs
+  uploadId: 328003

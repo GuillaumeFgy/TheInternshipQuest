@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 599b0719e4a19884daf5ce9981da9a0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5413860574552476144
+    second: Arbre_2_0
+  - first:
+      213: 6821112324403965955
+    second: Arbre_2_1
+  - first:
+      213: -6109284744959430439
+    second: Arbre_2_2
+  - first:
+      213: 6947219147336788823
+    second: Arbre_2_3
+  - first:
+      213: 8220379343414951549
+    second: Arbre_2_4
+  - first:
+      213: -7830065125551952895
+    second: Arbre_2_5
+  - first:
+      213: 3255496040597949183
+    second: Arbre_2_6
+  - first:
+      213: -7305045974127093751
+    second: Arbre_2_7
+  - first:
+      213: -747231524688142407
+    second: Arbre_2_8
+  - first:
+      213: 1204336193892159401
+    second: Arbre_2_9
+  - first:
+      213: 1254587095605610355
+    second: Arbre_2_10
+  - first:
+      213: 3617181095427208798
+    second: Arbre_2_11
+  - first:
+      213: 5192982575642038303
+    second: Arbre_2_12
+  - first:
+      213: 2867674381034611716
+    second: Arbre_2_13
+  - first:
+      213: 4952342106372361321
+    second: Arbre_2_14
+  - first:
+      213: -8330162002578983149
+    second: Arbre_2_15
+  - first:
+      213: 3725684921168057852
+    second: Arbre_2_16
+  - first:
+      213: 5034889044912367265
+    second: Arbre_2_17
+  - first:
+      213: -1505744219362008203
+    second: Arbre_2_18
+  - first:
+      213: -8463256604505446149
+    second: Arbre_2_19
+  - first:
+      213: -2966148409405307710
+    second: Arbre_2_20
+  - first:
+      213: 8788555803987109005
+    second: Arbre_2_21
+  - first:
+      213: -4967586064556589161
+    second: Arbre_2_22
+  - first:
+      213: -6857441135204984810
+    second: Arbre_2_23
+  - first:
+      213: 2758366486046873841
+    second: Arbre_2_24
+  - first:
+      213: -8658423814264988141
+    second: Arbre_2_25
+  - first:
+      213: -7237624422325983208
+    second: Arbre_2_26
+  - first:
+      213: -8959137885993842883
+    second: Arbre_2_27
+  - first:
+      213: -8558015635740050382
+    second: Arbre_2_28
+  - first:
+      213: -1542399899580358937
+    second: Arbre_2_29
+  - first:
+      213: 3285761268189715032
+    second: Arbre_2_30
+  - first:
+      213: 7977008149247405381
+    second: Arbre_2_31
+  - first:
+      213: -1346625903560477198
+    second: Arbre_2_32
+  - first:
+      213: -3086003331447523150
+    second: Arbre_2_33
+  - first:
+      213: 889647554417498848
+    second: Arbre_2_34
+  - first:
+      213: -3983432446152803273
+    second: Arbre_2_35
+  - first:
+      213: -2104626380575044644
+    second: Arbre_2_36
+  - first:
+      213: -1702316582329407833
+    second: Arbre_2_37
+  - first:
+      213: -6731686288398498632
+    second: Arbre_2_38
+  - first:
+      213: 6198144951848586097
+    second: Arbre_2_39
+  - first:
+      213: -2120006164354113688
+    second: Arbre_2_40
+  - first:
+      213: 2728633248498518115
+    second: Arbre_2_41
+  - first:
+      213: -121607700144321825
+    second: Arbre_2_42
+  - first:
+      213: -5233677160034034089
+    second: Arbre_2_43
+  - first:
+      213: -2818984566199931655
+    second: Arbre_2_44
+  - first:
+      213: 6641551809060646766
+    second: Arbre_2_45
+  - first:
+      213: -5220980010696230073
+    second: Arbre_2_46
+  - first:
+      213: -8214559269477938762
+    second: Arbre_2_47
+  - first:
+      213: 3658828840549924695
+    second: Arbre_2_48
+  - first:
+      213: -6911432128511365114
+    second: Arbre_2_49
+  - first:
+      213: 2978619962194423915
+    second: Arbre_2_50
+  - first:
+      213: -8208131840689377012
+    second: Arbre_2_51
+  - first:
+      213: -2745176996420092583
+    second: Arbre_2_52
+  - first:
+      213: 5409232589821591093
+    second: Arbre_2_53
+  - first:
+      213: -4908791872925350434
+    second: Arbre_2_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arbre_2_0
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1361
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f941b93285e12b40800000000000000
+      internalID: 5413860574552476144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1346
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300332de48579ae50800000000000000
+      internalID: 6821112324403965955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_2
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1342
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0faf094e5773ba0800000000000000
+      internalID: -6109284744959430439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_3
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1355
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b2dcda10b796060800000000000000
+      internalID: 6947219147336788823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_4
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1345
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ef43b9577a41270800000000000000
+      internalID: 8220379343414951549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_5
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1373
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c2d47f045065390800000000000000
+      internalID: -7830065125551952895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_6
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa088b8668dd2d20800000000000000
+      internalID: 3255496040597949183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1360
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908d14ce3634f9a90800000000000000
+      internalID: -7305045974127093751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 24
+        width: 818
+        height: 1331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf5df523ec41a5f0800000000000000
+      internalID: -747231524688142407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1340
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af86133369a6b010800000000000000
+      internalID: 1204336193892159401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_10
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1334
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778c5df050396110800000000000000
+      internalID: 1254587095605610355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_11
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1343
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567239aa0fc23230800000000000000
+      internalID: 3617181095427208798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_12
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1344
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10dfe1932e211840800000000000000
+      internalID: 5192982575642038303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_13
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1335
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4046e0de7a60cc720800000000000000
+      internalID: 2867674381034611716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_14
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1336
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc88838e04ab440800000000000000
+      internalID: 4952342106372361321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_15
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1330
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b2d23bc1556c80800000000000000
+      internalID: -8330162002578983149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_16
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1095
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5504f32ba44b330800000000000000
+      internalID: 3725684921168057852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1058
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e18d09e48fd540800000000000000
+      internalID: 5034889044912367265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_18
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1056
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573645a3c958a1be0800000000000000
+      internalID: -1505744219362008203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1019
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8697d55f87c8a80800000000000000
+      internalID: -8463256604505446149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_20
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1047
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48e4aacbf16d6d0800000000000000
+      internalID: -2966148409405307710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_21
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1022
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d846951a0f837f970800000000000000
+      internalID: 8788555803987109005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_22
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1017
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f7cee2bc69f0bb0800000000000000
+      internalID: -4967586064556589161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 951
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61894fbae9975d0a0800000000000000
+      internalID: -6857441135204984810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_24
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 976
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f89a2164bfa74620800000000000000
+      internalID: 2758366486046873841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_25
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 972
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed3fb4a6917d780800000000000000
+      internalID: -8658423814264988141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_26
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 929
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81861993feace8b90800000000000000
+      internalID: -7237624422325983208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_27
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 985
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c79b6f8fbaa380800000000000000
+      internalID: -8959137885993842883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_28
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 938
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cb9712f12db3980800000000000000
+      internalID: -8558015635740050382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_29
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 967
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee1aeb967b489ae0800000000000000
+      internalID: -1542399899580358937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_30
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 943
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5f27f67e599d20800000000000000
+      internalID: 3285761268189715032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 887
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da942d5a604be60800000000000000
+      internalID: 7977008149247405381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_32
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 905
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f530fc10e2df4de0800000000000000
+      internalID: -1346625903560477198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_33
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 900
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8f56502505c25d0800000000000000
+      internalID: -3086003331447523150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_34
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 895
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9958bcb9a85c00800000000000000
+      internalID: 889647554417498848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_35
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 867
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cfb4c9b4108b8c0800000000000000
+      internalID: -3983432446152803273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 878
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb88e8257ddac2e0800000000000000
+      internalID: -2104626380575044644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_37
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 890
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6affe66182068e0800000000000000
+      internalID: -1702316582329407833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_38
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 883
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c3a89cfe3492a0800000000000000
+      internalID: -6731686288398498632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_39
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 888
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc0599efb340650800000000000000
+      internalID: 6198144951848586097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_40
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 883
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fd80430a93492e0800000000000000
+      internalID: -2120006164354113688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_41
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 887
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368031b8b7d0ed520800000000000000
+      internalID: 2728633248498518115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_42
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 880
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda02f6e076ff4ef0800000000000000
+      internalID: -121607700144321825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 859
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e98172a5e3e57b0800000000000000
+      internalID: -5233677160034034089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_44
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 834
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc28500974f0e8d0800000000000000
+      internalID: -2818984566199931655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 819
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fa9609e288b2c50800000000000000
+      internalID: 6641551809060646766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 833
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b390b975a5b87b0800000000000000
+      internalID: -5220980010696230073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_47
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 814
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b90064fdd5000e80800000000000000
+      internalID: -8214559269477938762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_48
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fbee6f175c6c230800000000000000
+      internalID: 3658828840549924695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_49
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600bbd2f819a510a0800000000000000
+      internalID: -6911432128511365114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_50
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 30
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b607c7ff21f265920800000000000000
+      internalID: 2978619962194423915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_51
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 31
+        width: 103
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01f226549bd61e80800000000000000
+      internalID: -8208131840689377012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_52
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 37
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d7ecaf01c27e9d0800000000000000
+      internalID: -2745176996420092583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_53
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 34
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e38cf8164711b40800000000000000
+      internalID: 5409232589821591093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbre_2_54
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 25
+        width: 47
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5c5f9acc770ebb0800000000000000
+      internalID: -4908791872925350434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arbre_2_0: 5413860574552476144
+      Arbre_2_1: 6821112324403965955
+      Arbre_2_10: 1254587095605610355
+      Arbre_2_11: 3617181095427208798
+      Arbre_2_12: 5192982575642038303
+      Arbre_2_13: 2867674381034611716
+      Arbre_2_14: 4952342106372361321
+      Arbre_2_15: -8330162002578983149
+      Arbre_2_16: 3725684921168057852
+      Arbre_2_17: 5034889044912367265
+      Arbre_2_18: -1505744219362008203
+      Arbre_2_19: -8463256604505446149
+      Arbre_2_2: -6109284744959430439
+      Arbre_2_20: -2966148409405307710
+      Arbre_2_21: 8788555803987109005
+      Arbre_2_22: -4967586064556589161
+      Arbre_2_23: -6857441135204984810
+      Arbre_2_24: 2758366486046873841
+      Arbre_2_25: -8658423814264988141
+      Arbre_2_26: -7237624422325983208
+      Arbre_2_27: -8959137885993842883
+      Arbre_2_28: -8558015635740050382
+      Arbre_2_29: -1542399899580358937
+      Arbre_2_3: 6947219147336788823
+      Arbre_2_30: 3285761268189715032
+      Arbre_2_31: 7977008149247405381
+      Arbre_2_32: -1346625903560477198
+      Arbre_2_33: -3086003331447523150
+      Arbre_2_34: 889647554417498848
+      Arbre_2_35: -3983432446152803273
+      Arbre_2_36: -2104626380575044644
+      Arbre_2_37: -1702316582329407833
+      Arbre_2_38: -6731686288398498632
+      Arbre_2_39: 6198144951848586097
+      Arbre_2_4: 8220379343414951549
+      Arbre_2_40: -2120006164354113688
+      Arbre_2_41: 2728633248498518115
+      Arbre_2_42: -121607700144321825
+      Arbre_2_43: -5233677160034034089
+      Arbre_2_44: -2818984566199931655
+      Arbre_2_45: 6641551809060646766
+      Arbre_2_46: -5220980010696230073
+      Arbre_2_47: -8214559269477938762
+      Arbre_2_48: 3658828840549924695
+      Arbre_2_49: -6911432128511365114
+      Arbre_2_5: -7830065125551952895
+      Arbre_2_50: 2978619962194423915
+      Arbre_2_51: -8208131840689377012
+      Arbre_2_52: -2745176996420092583
+      Arbre_2_53: 5409232589821591093
+      Arbre_2_54: -4908791872925350434
+      Arbre_2_6: 3255496040597949183
+      Arbre_2_7: -7305045974127093751
+      Arbre_2_8: -747231524688142407
+      Arbre_2_9: 1204336193892159401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

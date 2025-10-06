@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 005d0cff95cf8504797ae9d80e9e9362
+timeCreated: 1510408359
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Notifications/Notification (Text).prefab
+  uploadId: 328003

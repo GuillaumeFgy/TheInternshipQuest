@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb8100ff6f696df478746c928d5b476c
+timeCreated: 1503187034
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Modal Box.prefab
+  uploadId: 328003

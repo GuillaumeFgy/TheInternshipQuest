@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a69e17c58d3b0f045b3a09b55a582c4f
+timeCreated: 1503165575
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Lobby/Character Select/Character (3D).prefab
+  uploadId: 328003

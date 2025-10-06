@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2860639939b847542b08581955df7d02, type: 3}
+  m_Name: Rogue
+  m_EditorClassIdentifier: 
+  parentTag: {fileID: 11400000, guid: 20ebb449a40861348930be5d55e3e827, type: 2}
+  lines:
+  - Stealthy? Only if you count tiptoeing to the fridge at midnight.
+  - "Okay fine, I feel like have been a rogue once\u2026 in Capture the Flag competitions."
+  tagName: Rogue

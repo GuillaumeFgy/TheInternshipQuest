@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b47124cab162df42aff31b0481c4ac1
+timeCreated: 1503008739
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Resources/ColorSchemeManager.asset
+  uploadId: 328003

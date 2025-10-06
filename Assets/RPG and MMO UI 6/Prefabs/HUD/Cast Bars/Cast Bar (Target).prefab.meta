@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abd7e57bc1691da43a3fcfafb558c38c
+timeCreated: 1503875722
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/HUD/Cast Bars/Cast Bar (Target).prefab
+  uploadId: 328003

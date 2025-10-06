@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6153c36b039717843a5b2ce061c59369
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Scripts/UI/Icon Slot System/Editor/UIItemSlotEditor.cs
+  uploadId: 328003

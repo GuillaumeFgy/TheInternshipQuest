@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d81e12bc8c3c434e9b745525f79cc15
+timeCreated: 1504066740
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Windows/Blanks/Window (Normal with Tabs).prefab
+  uploadId: 328003

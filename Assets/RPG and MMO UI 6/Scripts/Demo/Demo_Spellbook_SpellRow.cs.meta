@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1935e65e7219fc34495ab99d3d1d1af0
+timeCreated: 1504166726
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Scripts/Demo/Demo_Spellbook_SpellRow.cs
+  uploadId: 328003

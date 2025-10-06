@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 797d779097bbb524390013a6fdd0371e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128211
+  packageName: 2D vehicle controller pack
+  packageVersion: 1.0
+  assetPath: Assets/2D vehicle controller pack/Scripts/TankChain.cs
+  uploadId: 266185

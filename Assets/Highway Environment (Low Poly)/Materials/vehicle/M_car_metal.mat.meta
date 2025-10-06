@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85ba502aaa85226439ffc699fa6e299b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196872
+  packageName: Highway Environment (Low Poly)
+  packageVersion: 1.0
+  assetPath: Assets/Highway Environment (Low Poly)/Materials/vehicle/M_car_metal.mat
+  uploadId: 438903

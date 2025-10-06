@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9dc3580094c5fa14281bb6f6c151055c
+timeCreated: 1503728786
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Text Boxes/Text Box (Light Text).prefab
+  uploadId: 328003

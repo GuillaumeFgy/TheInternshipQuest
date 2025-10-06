@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 37a9e31cc7a806f4590884890adbd97f
+timeCreated: 1503728415
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Controls/Toggles/Radio Checkbox.prefab
+  uploadId: 328003

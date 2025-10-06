@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 54b9a5d312ab2a843a6b4efb9bd188ea
+timeCreated: 1522591550
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99450
+  packageName: RPG & MMO UI 6
+  packageVersion: 1.6
+  assetPath: Assets/RPG and MMO UI 6/Prefabs/Mobile/Action Buttons/Action Button
+    (Large).prefab
+  uploadId: 328003

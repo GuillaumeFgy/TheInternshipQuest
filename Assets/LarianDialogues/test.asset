@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f92f6143ef461244a82833523aac490, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  nodes:
+  - guid: 1a97158d-d2ac-4d9b-a52c-5fe8981a12bd
+    speaker: Sven Vincke, CEO of Larian
+    line: "Ah, a brave soul enters. You\u2019re here for the internship, yes? Tell
+      me, why should you be worthy to join the party?"
+    options:
+    - text: 1. Because I love your games! It would be a dream to join your team!
+      nextNodeGuid: ea93d822-969c-4cb2-80ec-cbbdff1485d6
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 10
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+    - text: 2. I was guided here by a strange talking squirrel named Quercus.
+      nextNodeGuid: c72f6f00-1e3b-4803-a326-120f0e71105c
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 10
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+    - text: 3. I thought this was a dice-rolling cult. I brought my own d20.
+      nextNodeGuid: 361fe30e-1689-4ca4-808c-5f97c25eeda9
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 10
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: ea93d822-969c-4cb2-80ec-cbbdff1485d6
+    speaker: Sven Vincke, CEO of Larian
+    line: "Love alone won\u2019t keep the goblins at bay. What makes you think you
+      can survive\u2026 our codebase?"
+    options:
+    - text: "1. I\u2019ve survived Act 3 on Tactician without save-scumming. I can
+        survive anything."
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 10
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+    - text: 2. [PERSUASION] I  drank a potion of speed. I learn quickly now.
+      nextNodeGuid: d8125ade-2719-4bf9-bd02-dd3054162a69
+      loadCreditsScene: 0
+      requiresDiceCheck: 1
+      dicePrompt: 'DC : 12'
+      target: 12
+      nextOnSuccessGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      nextOnFailGuid: d8125ade-2719-4bf9-bd02-dd3054162a69
+    - text: "3. I\u2019ve already signed a pact with Raphael. He promised me internship
+        advantage."
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 10
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: d8125ade-2719-4bf9-bd02-dd3054162a69
+    speaker: Sven Vincke, CEO of Larian
+    line: The effects of a potion are temporary.
+    options:
+    - text: 1. Don't worry, I've got loads of them.
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+    - text: 2. Fine, but learning new things gives me permanent buffs.
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: c72f6f00-1e3b-4803-a326-120f0e71105c
+    speaker: Sven Vincke, CEO of Larian
+    line: "Quercus sent you? Interesting\u2026 He doesn\u2019t usually bother with
+      mortals unless he thinks they\u2019re important to the next big story."
+    options:
+    - text: 1. [PERSUASION] He told me your next game needs a hero who can squash
+        bugs faster than a squirrel cracks acorns.
+      nextNodeGuid: 
+      loadCreditsScene: 0
+      requiresDiceCheck: 1
+      dicePrompt: 'DC : 5'
+      target: 0
+      nextOnSuccessGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      nextOnFailGuid: 11a2653f-618e-425d-99dd-cd7b0f232a0e
+    - text: "2. He said I\u2019m destined to help balance encounters so no sourcerer
+        ever survives a high-ground shove again."
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: 11a2653f-618e-425d-99dd-cd7b0f232a0e
+    speaker: Sven Vincke, CEO of Larian
+    line: "A bold claim\u2026 but I\u2019m not convinced you can outpace a squirrel."
+    options:
+    - text: "1. I may not be as fast as a squirrel, but I don\u2019t stop until the
+        job\u2019s done."
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+    - text: 2. [PERSUASION]I brought snacks. Bribery counts as a skill, right?
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 1
+      dicePrompt: 'DC : 2'
+      target: 2
+      nextOnSuccessGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      nextOnFailGuid: 9a680f27-0a10-493b-8881-d5f0e91ed528
+  - guid: 361fe30e-1689-4ca4-808c-5f97c25eeda9
+    speaker: Sven Vincke, CEO of Larian
+    line: I see you came prepared. Every recruit must pass the Sacred Dice Challenge.
+    options:
+    - text: 1. I roll for Persuasion to prove I belong.
+      nextNodeGuid: 
+      loadCreditsScene: 0
+      requiresDiceCheck: 1
+      dicePrompt: 'DC : 5'
+      target: 5
+      nextOnSuccessGuid: ffd0852b-7054-4e54-bc01-ec2be78b4a2a
+      nextOnFailGuid: b515e717-e239-46b7-b8d5-a45781458b1f
+    - text: 2. I roll to befriend the d20.
+      nextNodeGuid: 
+      loadCreditsScene: 0
+      requiresDiceCheck: 1
+      dicePrompt: 'DC : 10'
+      target: 10
+      nextOnSuccessGuid: ffd0852b-7054-4e54-bc01-ec2be78b4a2a
+      nextOnFailGuid: c6002c1a-ef7c-4813-81fa-64dda077025b
+    - text: 3. I roll to become the new CEO.
+      nextNodeGuid: 
+      loadCreditsScene: 0
+      requiresDiceCheck: 1
+      dicePrompt: 'DC : 20'
+      target: 20
+      nextOnSuccessGuid: 5f535012-851a-4c0f-ae1f-f0e0940006da
+      nextOnFailGuid: 0df50931-9641-4998-801a-2558eafab3a9
+  - guid: 0df50931-9641-4998-801a-2558eafab3a9
+    speaker: Sven Vincke, CEO of Larian
+    line: You weren't seriously thinking about that, were you? But I like your nerve,
+      so I'm hiring you as an intern!
+    options:
+    - text: 1. Thank you! I can't wait to get started.
+      nextNodeGuid: 
+      loadCreditsScene: 1
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: 5f535012-851a-4c0f-ae1f-f0e0940006da
+    speaker: Sven Vincke, CEO of Larian
+    line: You were lucky. Well done!
+    options:
+    - text: 1. My first decision is to appoint you as CEO and hire myself as an intern!
+      nextNodeGuid: 
+      loadCreditsScene: 1
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: c6002c1a-ef7c-4813-81fa-64dda077025b
+    speaker: Sven Vincke, CEO of Larian
+    line: "That\u2019s a shame. It just joined our company pet policy."
+    options:
+    - text: "1. That\u2019s fine. I\u2019m better at befriending the codebase anyway."
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+    - text: "2. Guess I\u2019ll settle for befriending the d12 instead."
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: b515e717-e239-46b7-b8d5-a45781458b1f
+    speaker: Sven Vincke, CEO of Larian
+    line: Oh dear, you persuaded the coffee machine instead. I hire you as Coffee-Machine
+      Liaison Intern.
+    options:
+    - text: 1. But I know how to code! I'm a hard worker!
+      nextNodeGuid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+    - text: 2. Can we start again?
+      nextNodeGuid: 361fe30e-1689-4ca4-808c-5f97c25eeda9
+      loadCreditsScene: 0
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: ffd0852b-7054-4e54-bc01-ec2be78b4a2a
+    speaker: Sven Vincke, CEO of Larian
+    line: The dice god has spoken! I'm hiring you as an intern in the party. Welcome!
+    options:
+    - text: 1. Thank you! I can't wait to get started.
+      nextNodeGuid: 
+      loadCreditsScene: 1
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: a3b3707b-7ef3-4d6a-b224-a565bb4c6b23
+    speaker: Sven Vincke, CEO of Larian
+    line: You've convinced me! I'm hiring you as an intern in the party. Welcome!
+    options:
+    - text: 1. Thank you! I can't wait to get started.
+      nextNodeGuid: 
+      loadCreditsScene: 1
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  - guid: 9a680f27-0a10-493b-8881-d5f0e91ed528
+    speaker: Sven Vincke, CEO of Larian
+    line: "That\u2019s a terrible persuasion roll\u2014you didn\u2019t even ask what
+      snacks I like. But anyone who shows up with snacks already understands how
+      to keep the dev team alive. You\u2019re hired."
+    options:
+    - text: 1. Thank you! I can't wait to get started.
+      nextNodeGuid: 
+      loadCreditsScene: 1
+      requiresDiceCheck: 0
+      dicePrompt: 
+      target: 0
+      nextOnSuccessGuid: 
+      nextOnFailGuid: 
+  startNodeGuid: 1a97158d-d2ac-4d9b-a52c-5fe8981a12bd
