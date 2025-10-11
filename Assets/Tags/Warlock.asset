@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parentTag: {fileID: 11400000, guid: 20ebb449a40861348930be5d55e3e827, type: 2}
   lines:
-  - The only pact I want to sign is an internship at Larian.
+  - The only pact I want to sign is an internship contract.
   - Maybe... I would even give my soul.
-  - But Wyll would be mad.
+  - Maybe not.
   tagName: Warlock

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parentTag: {fileID: 0}
   lines:
-  - I have an interview at Larian. Let's go!
+  - I have an interview for my internship. Let's go!
   tagName: Exit
